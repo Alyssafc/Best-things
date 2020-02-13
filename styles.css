@@ -1,0 +1,38 @@
+h1 {
+    text-align: center;
+    color: white;
+    font-family: 'Anton', sans-serif;
+}
+
+h2 {
+    text-align: center;
+    color: crimson;
+    font-family: 'Lobster', cursive;
+}
+
+img {
+    height: 300px;
+}
+
+body {
+    text-align: center;
+    background-color: mintcream;
+    border: dotted pink 3px;
+
+}
+
+.award {
+    color:white;
+    }
+
+.darkred {
+    color: darkred;
+}
+
+.gold {
+    color: gold;
+}
+
+.maroon {
+    color: maroon;
+}
